@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Development/Git/Reposities/WarehouseWreckage/WarehouseWreckage/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"D:/Development/Git/Reposities/WarehouseWreckage/WarehouseWreckage/Content/DuplicatedContent/min_default_duplicate.umap",
+				"D:/Development/Git/Reposities/WarehouseWreckage/WarehouseWreckage/Content/StarterContent/Maps/Minimal_Default.umap"
+			]
+		}
+	]
+}
